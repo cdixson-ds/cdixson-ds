@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello 👋👩‍💻
 
-<!--
-**cdixson-ds/cdixson-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Crystal! I am passionate about utilizing the tools I have learned to tell stories with data. I have a degree in Applied Linguistics and currently studying Data Science at Lambda School. I have experience with Python, SQL, Statistics, Machine Learning, Data Visualizations and Natural Language Processing. 
 
-Here are some ideas to get you started:
+You can find me online 🌎:
+- [LinkedIn](https://www.linkedin.com/in/crystaldixson/)💻
+- [Twitter](https://twitter.com/dixson_crystal)🦜
+- [Portfolio](https://crystaldixson.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- [🌱 I’m currently learning ...Neural Networks and NLP
+- 👯 I’m looking to collaborate on ...NLP
+
+- ⚡ Fun fact: Crows are goal oriented and behave optimistically 
+      after successfully using a tool. Just like humans!
+
