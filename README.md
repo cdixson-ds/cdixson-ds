@@ -8,7 +8,7 @@ You can find me online 🌎:
 - [Portfolio](https://crystaldixson.com/)
 
 
-- [🌱 I’m currently learning ...Neural Networks and NLP
+- 🌱 I’m currently learning ...Neural Networks and NLP
 - 👯 I’m looking to collaborate on ...NLP
 
 - ⚡ Fun fact: Crows are goal oriented and behave optimistically 
